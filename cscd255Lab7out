@@ -1,0 +1,103 @@
+ clang-7 -pthread -lm -o main array.c lab7.c main.c sort.c stats.c
+ ./main
+Your Input [100 or greater]: 500
+
+-----------------------------------------------------------------------------
+MENU 
+-----------------------------------------------------------------------------
+The menu choices are 
+  1. Print Array
+  2. Delete Item From Array 
+  3. Mean of Array 
+  4. Median of Array 
+  5. Mid Point Of Array
+  6. Standard Deviation of Array 
+  7. Quit the program 
+-----------------------------------------------------------------------------
+Your Choice [1-7]: 1
+[ 7 , 406 , 105 , 487 , 113 , 52 , 490 , 57 , 498 , 388 , 50 , 439 , 80 , 421 , 131 , 253 , 129 , 309 , 208 , 28 , 341 , 260 , 339 , 411 , 194 ]
+
+-----------------------------------------------------------------------------
+MENU 
+-----------------------------------------------------------------------------
+The menu choices are 
+  1. Print Array
+  2. Delete Item From Array 
+  3. Mean of Array 
+  4. Median of Array 
+  5. Mid Point Of Array
+  6. Standard Deviation of Array 
+  7. Quit the program 
+-----------------------------------------------------------------------------
+Your Choice [1-7]: 3
+
+Mean of Array is : 247.84 
+
+
+-----------------------------------------------------------------------------
+MENU 
+-----------------------------------------------------------------------------
+The menu choices are 
+  1. Print Array
+  2. Delete Item From Array 
+  3. Mean of Array 
+  4. Median of Array 
+  5. Mid Point Of Array
+  6. Standard Deviation of Array 
+  7. Quit the program 
+-----------------------------------------------------------------------------
+Your Choice [1-7]: 4
+
+Median of Array is : 253.00 
+
+
+-----------------------------------------------------------------------------
+MENU 
+-----------------------------------------------------------------------------
+The menu choices are 
+  1. Print Array
+  2. Delete Item From Array 
+  3. Mean of Array 
+  4. Median of Array 
+  5. Mid Point Of Array
+  6. Standard Deviation of Array 
+  7. Quit the program 
+-----------------------------------------------------------------------------
+Your Choice [1-7]: 5
+
+Midpoint of Array is : 252.50 
+
+
+-----------------------------------------------------------------------------
+MENU 
+-----------------------------------------------------------------------------
+The menu choices are 
+  1. Print Array
+  2. Delete Item From Array 
+  3. Mean of Array 
+  4. Median of Array 
+  5. Mid Point Of Array
+  6. Standard Deviation of Array 
+  7. Quit the program 
+-----------------------------------------------------------------------------
+Your Choice [1-7]: 6
+
+Standard Deviation of Array is : 165.38 
+
+
+-----------------------------------------------------------------------------
+MENU 
+-----------------------------------------------------------------------------
+The menu choices are 
+  1. Print Array
+  2. Delete Item From Array 
+  3. Mean of Array 
+  4. Median of Array 
+  5. Mid Point Of Array
+  6. Standard Deviation of Array 
+  7. Quit the program 
+-----------------------------------------------------------------------------
+Your Choice [1-7]: 7
+All Done
+Good Bye
+ 
